@@ -15,5 +15,7 @@ Application.$controller("MainPageController", ['$scope', function ($scope) {
          * e.g. $scope.Widgets.byId(), $scope.Widgets.byName()or access widgets by $scope.Widgets.widgetName
          */
     };
+    
+    $scope.greeting = "ABCDEFGHI";
 
 }]);
