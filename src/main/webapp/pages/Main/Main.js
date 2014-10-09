@@ -21,6 +21,7 @@ Application.$controller("MainPageController", ['$scope',
         $scope.greeting_new = "ABCDEFGHIJKLMNO";
         $scope.greeting_new_new = "ABCDEFGHIJKLMNOPQRST";
         $scope.hello_greeting = "Hello there";
+        $scope.afternoon_greeting = "Good Afternoon";
 
     }
 ]);
