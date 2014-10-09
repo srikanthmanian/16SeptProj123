@@ -18,5 +18,6 @@ Application.$controller("MainPageController", ['$scope', function ($scope) {
     
     $scope.greeting = "ABCDEFGHI";
     $scope.greeting_new = "ABCDEFGHIJKLMNO";
+    $scope.greeting_new_new = "ABCDEFGHIJKLMNOPQRST";
 
 }]);
