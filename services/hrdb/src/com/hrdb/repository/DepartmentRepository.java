@@ -1,5 +1,5 @@
 package com.hrdb.repository; 
-// Generated 14 Oct, 2014 3:13:40 PM 
+// Generated 14 Oct, 2014 3:19:54 PM 
 
 import com.wavemaker.runtime.data.dao.WMGenericDaoImpl;
 import org.springframework.beans.factory.annotation.Autowired;

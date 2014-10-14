@@ -1,5 +1,5 @@
 package com.hrdb;
-// Generated 14 Oct, 2014 3:13:40 PM by Hibernate Tools 4.3.1
+// Generated 14 Oct, 2014 3:19:54 PM by Hibernate Tools 4.3.1
 
 
 import javax.persistence.Column;
