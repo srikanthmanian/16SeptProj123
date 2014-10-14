@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<service xmlns="http://www.activegrid.com/namespaces/ServiceDefinitions/1.0" id="MyJavaService" class="com.pkg16septproj123.MyJavaService" CRUDService="false" type="JavaService" springFile="MyJavaService.spring.xml">
+    <operation name="sampleJavaOperation">
+        <return typeRef="java.lang.String" isList="false"/>
+    </operation>
+    <operation name="isTest">
+        <return typeRef="boolean" isList="false"/>
+    </operation>
+    <dataobjects/>
+</service>

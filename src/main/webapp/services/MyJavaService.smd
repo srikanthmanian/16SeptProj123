@@ -1,0 +1,15 @@
+{
+	"methods": [{
+		"operationType": null,
+		"name": "isTest",
+		"parameters": null,
+		"returnType": "boolean"
+	}, {
+		"operationType": null,
+		"name": "sampleJavaOperation",
+		"parameters": null,
+		"returnType": "java.lang.String"
+	}],
+	"serviceURL": "MyJavaService.json",
+	"serviceType": "JSON-RPC"
+}
